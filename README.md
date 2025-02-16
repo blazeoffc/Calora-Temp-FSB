@@ -8,6 +8,8 @@ Key Features:
 🏋️ Exercise Tracking – Log calories burned from workouts.
 📊 Surplus/Deficit Calculator – See your remaining calories after food and exercise entries.
 
+Hosted Project Link - https://calora-fsb.netlify.app/
+
 Built With:
 HTML
 CSS
